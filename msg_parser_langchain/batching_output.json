@@ -1,0 +1,297 @@
+[
+    {
+        "id": "0",
+        "text": "RENTAL ROOM HIGHER FLOOR SEAFACE \n\n1RK    225CARPET \n \nBACHELOR AND FAMILY ALLOWED \n\n25000/- RENT \n1,00,000/- DEPOSIT \n\n\nNOT NEGOTIABLE\n\n\nJUHU VERSOVA LINK ROAD \nANDHERI WEST \n \nContact :\n7977346657\n\n9324104596",
+        "properties": [
+            {
+                "property_category": "residential",
+                "property_type": "room",
+                "configuration": "1RK",
+                "location": "JUHU VERSOVA LINK ROAD ANDHERI WEST",
+                "floor": "Higher Floor",
+                "area": {
+                    "value": "225",
+                    "unit": "carpet"
+                },
+                "preferred_tenants": [
+                    "Bachelors",
+                    "Family"
+                ],
+                "price": {
+                    "rent": "25000",
+                    "deposit": "100000"
+                },
+                "contact": [
+                    "7977346657",
+                    "9324104596"
+                ]
+            }
+        ],
+        "processing_time": 64.45644569396973
+    },
+    {
+        "id": "1",
+        "text": "SHOP RENTAL ROAD TOUCH S.R.A BUILDING   (200FT)  CARPET  WATER CONNECTION AVAILABLE  30,000 RENT  \n1,00,000 DEPOSIT  NEGOTIABLE \nJUHU VERSOVA LINK ROAD KAPASWADI  ANDHERI WEST \nCONTACT:-7977346657\n                 :- 9324104596",
+        "properties": [
+            {
+                "property_category": "commercial",
+                "property_type": "shop",
+                "location": "JUHU VERSOVA LINK ROAD KAPASWADI ANDHERI WEST",
+                "area": {
+                    "value": "200",
+                    "unit": "ft"
+                },
+                "price": {
+                    "rent": "30000",
+                    "deposit": "100000",
+                    "negotiable": true
+                },
+                "water_connection": true,
+                "contact": [
+                    "7977346657",
+                    "9324104596"
+                ]
+            }
+        ],
+        "processing_time": 58.327550411224365
+    },
+    {
+        "id": "2",
+        "text": "*Commercial* Rental *Office* \nN.C.Kelkar Rd Dadar west \n200 carpet, 2 Flr, with wash Basin, 35.000 p.m \n\n*Commercial* Rental *Shop* \nN.C.Kelkar Rd Dadar west \n250 carpet, G/Floor, Road Facing, Selfcontent, Use for,\nClinic, Classes,Office, \n50.000 p.m Negotiable \n\nCommercial  Shop Rental \n *ShivajiPark* \n450 carpet, with Water Connection, 18 ft Height \n15 ft frontage, G/Flr, Road Facing,  2.75 lk p.m Negotiable \n\nCall- 9833863085",
+        "properties": [
+            {
+                "property_category": "commercial",
+                "property_type": "office",
+                "location": "N.C.KELKAR RD DADAR WEST",
+                "area": {
+                    "value": "200",
+                    "unit": "carpet",
+                    "floors": "2"
+                },
+                "features": {
+                    "wash_basin": true
+                },
+                "price": {
+                    "rent": "35000",
+                    "negotiable": true
+                },
+                "contact": [
+                    "9833863085"
+                ]
+            },
+            {
+                "property_category": "commercial",
+                "property_type": "shop",
+                "location": "N.C.KELKAR RD DADAR WEST",
+                "area": {
+                    "value": "250",
+                    "unit": "carpet",
+                    "floor": "G"
+                },
+                "features": {
+                    "road_facing": true,
+                    "self_contained": true
+                },
+                "use_for": [
+                    "clinic",
+                    "classes",
+                    "office"
+                ],
+                "price": {
+                    "rent": "50000",
+                    "negotiable": true
+                },
+                "contact": [
+                    "9833863085"
+                ]
+            },
+            {
+                "property_category": "commercial",
+                "property_type": "shop",
+                "location": "SHIVAJIPARK",
+                "area": {
+                    "value": "450",
+                    "unit": "carpet",
+                    "height": "18",
+                    "frontage": "15"
+                },
+                "features": {
+                    "water_connection": true,
+                    "road_facing": true
+                },
+                "price": {
+                    "rent": "275000",
+                    "negotiable": true
+                },
+                "contact": [
+                    "9833863085"
+                ]
+            }
+        ],
+        "processing_time": 146.32514548301697
+    },
+    {
+        "id": "3",
+        "text": "Lotus Signature in veera desai Andheri West\nFull floor 10500 Sq ft Carpet \nMT Rs.200/ per square ft\nFully furnished Rs.250/ per square ft on Carpet \nOne of the finest building in Andheri West \nIf any one want part will do minimum 2600 square ft Carpet \nFor full floor 12 car park with full floor\nFor 2600 sq ft 3 car park with unit\nDeposit 6 months \nCall for Inspection \nArya properties Mantosh tiwari 9619409991",
+        "properties": [
+            {
+                "property_category": "residential",
+                "property_type": "full floor",
+                "location": "LOTUS SIGNATURE, VEERA DESAI, ANDHERI WEST",
+                "area": {
+                    "value": "10500",
+                    "unit": "sq ft"
+                },
+                "price": {
+                    "sale": "20000000",
+                    "rent": "25000000",
+                    "unit": "per square ft"
+                },
+                "furnishing_status": "Fully Furnished",
+                "minimum_area": "2600 sq ft",
+                "car_parking": true,
+                "car_park_for_2600_sq_ft": true,
+                "car_park_for_full_floor": true,
+                "car_park_for_minimum_area": 3,
+                "unit_deposit": true,
+                "unit_deposit_duration": "6 months",
+                "contact": [
+                    "9619409991"
+                ]
+            }
+        ],
+        "processing_time": 89.80223178863525
+    },
+    {
+        "id": "4",
+        "text": "*Requirement*\n\nLooking for a 1500 plus sq feet commercial space for a *day care center/ play school*\n\nLocation - Lokhandwala/ shastri nagar / Link Road / Azad Nagar/ d n nagar / Juhu\n\n*Budget - 2.25 lakhs per month*\n\nContact Duran on 9820127276 with your direct listings",
+        "properties": [
+            {
+                "property_category": "commercial",
+                "property_type": "space",
+                "location": [
+                    "Lokhandwala",
+                    "Shastri Nagar",
+                    "Link Road",
+                    "Azad Nagar",
+                    "D N Nagar",
+                    "Juhu"
+                ],
+                "area": {
+                    "value": "1500",
+                    "unit": "sq feet"
+                },
+                "purpose": "Day Care Center/ Play School",
+                "budget": {
+                    "monthly": "225000"
+                },
+                "contact": [
+                    "9820127276"
+                ]
+            }
+        ],
+        "processing_time": 52.14180326461792
+    },
+    {
+        "id": "5",
+        "text": "Available offices for RENT \nOBEROI GARDENS ESTATE , CHANDIVALI \n480 sft to 560 sft built up \nRENT STARTING FROM \n@30k  to 40k \nUn furnished, semi finished,  furnished \n( multiple options ) \nRonak lifestyle Pvt Ltd \nSunil Gare -8169474646",
+        "properties": [
+            {
+                "property_category": "commercial",
+                "property_type": "office",
+                "location": "Oberoi Gardens Estate, Chandivali",
+                "area": {
+                    "value": "480",
+                    "unit": "built-up"
+                },
+                "rent": {
+                    "starting_from": "30000"
+                },
+                "furnishing_status": [
+                    "Unfurnished",
+                    "Semi-Furnished",
+                    "Furnished"
+                ],
+                "contact": [
+                    "8169474646"
+                ]
+            }
+        ],
+        "processing_time": 49.04132080078125
+    },
+    {
+        "id": "6",
+        "text": "FLAT FOR SALE \n1 BHK HARMONY @1.10cr \n2 BHK ORCHID , \nNAHAR( 2 options ) \n@1.60 cr \n3 BHK KANIKA SILICONE VALLEY \n@3.85 cr \n3 BHK LAKE PRIMROSE \n@ 3.40 cr \n3 Bhk LILUM , NAHAR @3.30cr \nRonak lifestyle Pvt Ltd \nSunil Gare - 8169474646",
+        "properties": [
+            {
+                "property_category": "residential",
+                "configuration": "1BHK",
+                "location": "HARMONY",
+                "price": {
+                    "sale": "1100000"
+                },
+                "additional_details": [
+                    "@1.10CR"
+                ]
+            },
+            {
+                "property_category": "residential",
+                "configuration": "2BHK",
+                "location": "ORCHID, NAHAR",
+                "price": {
+                    "sale": "1600000"
+                },
+                "additional_details": []
+            },
+            {
+                "property_category": "residential",
+                "configuration": "3BHK",
+                "location": "KANIKA SILICONE VALLEY",
+                "price": {
+                    "sale": "3850000"
+                }
+            },
+            {
+                "property_category": "residential",
+                "configuration": "3BHK",
+                "location": "LAKE PRIMROSE",
+                "price": {
+                    "sale": "3400000"
+                }
+            },
+            {
+                "property_category": "residential",
+                "configuration": "3BHK",
+                "location": "LILUM, NAHAR",
+                "price": {
+                    "sale": "3300000"
+                }
+            },
+            {
+                "contact": [
+                    "8169474646"
+                ],
+                "property_category": "residential"
+            }
+        ],
+        "processing_time": 122.38037943840027
+    },
+    {
+        "id": "7",
+        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\nUrgently Required   for RESALE \n2 BHK Flat\nOnly  Nahar  YYV \nBudget - As Per Market \n\nIf any pls call with your direct inventory \nRonak lifestyle Pvt Ltd \nSunil Gare 8169474646",
+        "properties": [
+            {
+                "property_category": "residential",
+                "configuration": "2BHK",
+                "location": "NAHAR YYV",
+                "price": {
+                    "resale": "As per market"
+                },
+                "contact": [
+                    "8169474646"
+                ]
+            }
+        ],
+        "processing_time": 170.97262501716614
+    }
+]
