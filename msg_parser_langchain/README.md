@@ -15,14 +15,15 @@ Example :
 
 Command used to run the files :
 
-'''bash
+<pre>
 !python langchain_main.py --input "/kaggle/input/wtsp-chat/WhatsApp Chat with Murugan dada group .txt" --output "/kaggle/working/new_output13.json" --model "mistralai/Mistral-7B-Instruct-v0.3" --batch-size 2 --quantize none   --use-bettertransformer --timeout 600 --offload-folder "/kaggle/working/new_offload" --limit 8 --no-use-vllm --max-new-tokens 512  --device "auto" 
+</pre>
 
 Model was loaded using hugging face :
 
 Authenticate with Hugging Face using your Kaggle secrets:
 
-'''python
+<pre>
 from kaggle_secrets import UserSecretsClient
 from huggingface_hub import login
 
@@ -32,5 +33,7 @@ hf_token = user_secrets.get_secret("hf")
 
 # Login to Hugging Face
 login(token=hf_token)
+</pre>
+
 Save your token in Kaggle → Secrets with the key name: hf
 
