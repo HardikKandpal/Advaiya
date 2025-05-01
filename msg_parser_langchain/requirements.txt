@@ -1,0 +1,14 @@
+torch
+transformers
+bitsandbytes
+accelerate
+langchain
+langchain-community
+tqdm
+aiofiles
+nest-asyncio
+orjson
+outlines
+vllm
+huggingface_hub
+kaggle_secrets
