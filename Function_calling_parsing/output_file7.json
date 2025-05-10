@@ -1,0 +1,402 @@
+[
+  {
+    "basic_message_info": {
+      "id": "0"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "residential",
+        "property_type": "rental room",
+        "intent": "enquiry",
+        "location": "JUHU VERSOVA LINK ROAD ANDHERI WEST",
+        "area": {
+          "value": "Not specified",
+          "unit": "Sq.ft"
+        },
+        "price": {
+          "rent": "25000/-",
+          "deposit": "1,00,000/-"
+        },
+        "contact": [
+          "7977346657",
+          "9324104596"
+        ],
+        "additional_details": [
+          "HIGHER FLOOR SEAFACE",
+          "1RK",
+          "225",
+          "CARPET",
+          "BACHELOR AND FAMILY ALLOWED"
+        ]
+      }
+    },
+    "processing_time": 128.88166117668152
+  },
+  {
+    "basic_message_info": {
+      "id": "1"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "commercial",
+        "property_type": "shop rental",
+        "intent": "listed",
+        "location": "JUHU VERSOVA LINK ROAD KAPASWADI ANDHERI WEST",
+        "area": {
+          "value": "200FT",
+          "unit": "feet"
+        },
+        "price": {
+          "rent": "30000",
+          "deposit": "100000"
+        },
+        "contact": [
+          "7977346657",
+          "9324104596"
+        ],
+        "additional_details": [
+          "CARPET WATER CONNECTION AVAILABLE"
+        ]
+      }
+    },
+    "processing_time": 128.881676197052
+  },
+  {
+    "basic_message_info": {
+      "id": "2"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "commercial",
+        "property_type": "office",
+        "intent": "listed",
+        "location": "N.C.KELKAR RD DADAR WEST",
+        "area": {
+          "value": "200",
+          "unit": "CARPET"
+        },
+        "price": {
+          "value": "35.000",
+          "currency": "P.M"
+        },
+        "contact": [
+          "9833863085"
+        ],
+        "additional_details": [
+          "2 FLR",
+          "WITH WASH BASIN"
+        ]
+      },
+      "property_listing_B": {
+        "property_category": "commercial",
+        "property_type": "shop",
+        "intent": "listed",
+        "location": "N.C.KELKAR RD DADAR WEST",
+        "area": {
+          "value": "250",
+          "unit": "CARPET"
+        },
+        "price": {
+          "value": "50.000",
+          "currency": "P.M"
+        },
+        "additional_details": [
+          "G/FLOOR",
+          "ROAD FACING",
+          "SELFCONTENT",
+          "USE FOR, CLINIC, CLASSES,OFFICE"
+        ]
+      },
+      "property_listing_C": {
+        "property_category": "commercial",
+        "property_type": "shop",
+        "intent": "listed",
+        "location": "SHIVAJIPARK",
+        "area": {
+          "value": "450",
+          "unit": "CARPET"
+        },
+        "price": {
+          "value": "2.75",
+          "currency": "LK P.M"
+        },
+        "additional_details": [
+          "WITH WATER CONNECTION",
+          "18 FT HEIGHT",
+          "15 FT FRONTAGE",
+          "G/FLR",
+          "ROAD FACING"
+        ],
+        "contact": [
+          "9833863085"
+        ]
+      }
+    },
+    "processing_time": 128.88168048858643
+  },
+  {
+    "basic_message_info": {
+      "id": "3"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "residential",
+        "property_type": "full floor",
+        "intent": "enquiry",
+        "location": "VEERA DESAI ANDHERI WEST",
+        "area": {
+          "value": "10500",
+          "unit": "SQ FT"
+        },
+        "price": {
+          "per_square_foot": "200",
+          "fully_furnished": "250"
+        },
+        "contact": [
+          "ARYA PROPERTIES",
+          "9619409991"
+        ],
+        "additional_details": [
+          "ONE OF THE FINEST BUILDING IN ANDHERI WEST",
+          "IF ANY ONE WANT PART WILL DO",
+          "MINIMUM 2600 SQUARE FT CARPET FOR FULL FLOOR",
+          "12 CAR PARK WITH FULL FLOOR FOR 2600 SQ FT",
+          "3 CAR PARK WITH UNIT DEPOSIT 6 MONTHS",
+          "CALL FOR INSPECTION"
+        ]
+      },
+      "property_listing_B": {
+        "property_category": "residential",
+        "property_type": "part floor",
+        "intent": "enquiry",
+        "location": "VEERA DESAI ANDHERI WEST",
+        "area": {
+          "value": "2600",
+          "unit": "SQ FT"
+        },
+        "price": {
+          "per_square_foot": null,
+          "fully_furnished": null
+        },
+        "contact": [
+          "ARYA PROPERTIES",
+          "9619409991"
+        ],
+        "additional_details": [
+          "IF ANY ONE WANT PART WILL DO",
+          "MINIMUM 2600 SQUARE FT CARPET FOR FULL FLOOR",
+          "3 CAR PARK WITH UNIT DEPOSIT 6 MONTHS",
+          "CALL FOR INSPECTION"
+        ]
+      }
+    },
+    "processing_time": 128.88169026374817
+  },
+  {
+    "basic_message_info": {
+      "id": "4"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "commercial",
+        "property_type": "day care center/ play school",
+        "intent": "enquiry",
+        "location": "LOKHANDWALA/ SHASTRI NAGAR / LINK ROAD / AZAD NAGAR/ D N NAGAR / JUHU",
+        "area": {
+          "value": "1500",
+          "unit": "SQ FEET"
+        },
+        "price": {
+          "value": "2.25",
+          "currency": "Lakhs",
+          "period": "Month"
+        },
+        "contact": [
+          "9820127276"
+        ],
+        "additional_details": [
+          "DIRECT LISTINGS"
+        ]
+      }
+    },
+    "processing_time": 121.46139883995056
+  },
+  {
+    "basic_message_info": {
+      "id": "5"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "commercial",
+        "property_type": "office",
+        "intent": "listed",
+        "location": "Oberoi Gardens Estate, Chandivali",
+        "area": {
+          "value": "480",
+          "unit": "SFT"
+        },
+        "price": {
+          "value": "30000",
+          "currency": "@"
+        },
+        "contact": [
+          "RONAK LIFESTYLE PVT LTD",
+          "Sunil Gare -8169474646"
+        ]
+      },
+      "property_listing_B": {
+        "property_category": "commercial",
+        "property_type": "office",
+        "intent": "listed",
+        "location": "Oberoi Gardens Estate, Chandivali",
+        "area": {
+          "value": "560",
+          "unit": "SFT"
+        },
+        "price": {
+          "value": "40000",
+          "currency": "@"
+        },
+        "contact": [
+          "RONAK LIFESTYLE PVT LTD",
+          "Sunil Gare -8169474646"
+        ]
+      }
+    },
+    "processing_time": 121.46140789985657
+  },
+  {
+    "basic_message_info": {
+      "id": "6"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "residential",
+        "property_type": "flat",
+        "intent": "listed",
+        "location": "not specified",
+        "area": {
+          "value": "1 BHK",
+          "unit": "unit_not_specified"
+        },
+        "price": {
+          "value": "1.10CR",
+          "currency": "INR"
+        },
+        "contact": [
+          "RONAK LIFESTYLE PVT LTD",
+          "Sunil Gare",
+          "8169474646"
+        ],
+        "additional_details": [
+          "HARMONY"
+        ]
+      },
+      "property_listing_B": {
+        "property_category": "residential",
+        "property_type": "flat",
+        "intent": "listed",
+        "location": "not specified",
+        "area": {
+          "value": "2 BHK",
+          "unit": "unit_not_specified"
+        },
+        "price": {
+          "value": "1.60CR",
+          "currency": "INR"
+        },
+        "additional_details": [
+          "ORCHID",
+          "NAHAR",
+          "2 OPTIONS"
+        ]
+      },
+      "property_listing_C": {
+        "property_category": "residential",
+        "property_type": "flat",
+        "intent": "listed",
+        "location": "not specified",
+        "area": {
+          "value": "3 BHK",
+          "unit": "unit_not_specified"
+        },
+        "price": {
+          "value": "3.85CR",
+          "currency": "INR"
+        },
+        "additional_details": [
+          "KANIKA SILICONE VALLEY"
+        ]
+      },
+      "property_listing_D": {
+        "property_category": "residential",
+        "property_type": "flat",
+        "intent": "listed",
+        "location": "not specified",
+        "area": {
+          "value": "3 BHK",
+          "unit": "unit_not_specified"
+        },
+        "price": {
+          "value": "3.40CR",
+          "currency": "INR"
+        },
+        "additional_details": [
+          "LAKE PRIMROSE"
+        ]
+      },
+      "property_listing_E": {
+        "property_category": "residential",
+        "property_type": "flat",
+        "intent": "listed",
+        "location": "not specified",
+        "area": {
+          "value": "3 BHK",
+          "unit": "unit_not_specified"
+        },
+        "price": {
+          "value": "3.30CR",
+          "currency": "INR"
+        },
+        "additional_details": [
+          "LILUM",
+          "NAHAR"
+        ]
+      }
+    },
+    "processing_time": 121.46141171455383
+  },
+  {
+    "basic_message_info": {
+      "id": "7"
+    },
+    "contact_info": {},
+    "structured_message_content": {
+      "property_listing_A": {
+        "property_category": "residential",
+        "property_type": "2 BHK flat",
+        "intent": "enquiry",
+        "location": "NAHAR YYV",
+        "area": null,
+        "price": null,
+        "contact": [
+          "RONAK LIFESTYLE PVT LTD",
+          "Sunil Gare",
+          "8169474646"
+        ],
+        "additional_details": [
+          "URGENTLY REQUIRED FOR RESALE",
+          "Budget - As per market if any"
+        ]
+      }
+    },
+    "processing_time": 121.4614155292511
+  }
+]
