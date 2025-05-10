@@ -1,1 +1,7 @@
-
+duckdb
+mistral-inference
+mistral-common
+orjson
+aiofiles
+tqdm
+pandas
